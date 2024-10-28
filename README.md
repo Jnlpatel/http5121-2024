@@ -14,7 +14,7 @@ responsive web interfaces based on mock-ups that are optimized for accessibility
 <html>
 <body>
 
-<p>Centered paragraph.</p>
+<p> Write paragraph.</p>
 <h1>Heading tag</h1>
 <a href="">for provide link</a>
 
